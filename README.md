@@ -1,1 +1,1 @@
-# dev opsreadme
+shell basics code
