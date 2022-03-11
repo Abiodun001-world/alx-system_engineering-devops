@@ -1,2 +1,3 @@
 #!/bin/bash
-my name is betty
+shell permissions
+
