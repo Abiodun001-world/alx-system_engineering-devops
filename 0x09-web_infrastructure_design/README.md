@@ -1,24 +1,26 @@
 # 0x09. Web infrastructure design
 # Devops SysAdmin Web Infrastructure
 <br>
+
 # Concepts
+
 <br>
 <ul>
 <li> 
-[DNS](https://intranet.alxswe.com/concepts/12)</li>
-<li>[Monitoring](https://intranet.alxswe.com/concepts/13)</li>
-<li>[Web Server](https://intranet.alxswe.com/concepts/17)</li>
-<li>[Network basics](https://intranet.alxswe.com/concepts/33)</li>
-<li>[Load balancer](https://intranet.alxswe.com/concepts/46)</li>
-<li>[Server](https://intranet.alxswe.com/concepts/67)</li>
-<li>[What Is a Database](https://www.oracle.com/ke/database/what-is-database/)</li>
-<li>[What's the difference between a web server and app server](https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html)</li>
-<li>[DNS record types](https://www.site24x7.com/learn/dns-record-types.html)</li>
-<li>[Single point of failure](https://avinetworks.com/glossary/single-point-of-failure/)</li>
-<li>[How to avoid downtime when deploying a new code](https://softwareengineering.stackexchange.com/questions/35063/how-do-you-update-your-production-codebase-database-schema-without-causing-downt#answers-header)</li>
-<li>[High availability cluster (active-active active/passive)](https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712)</li>
-<li>[What's HTTPS](https://www.instantssl.com/http-vs-https)</li>
-<li>[what is a firewall](https://www.webopedia.com/definitions/firewall/)</li>
+<a href="https://intranet.alxswe.com/concepts/12">DNS</a></li>
+<li><a href="https://intranet.alxswe.com/concepts/13">Monitoring</a></li>
+<li><a href="https://intranet.alxswe.com/concepts/17">Web Server</a></li>
+<li><a href="https://intranet.alxswe.com/concepts/33">Network basics</a></li>
+<li><a href="https://intranet.alxswe.com/concepts/46">Load balancer</a></li>
+<li><a href="https://intranet.alxswe.com/concepts/67">Server</a></li>
+<li><a href="https://www.oracle.com/ke/database/what-is-database/">What Is a Database</a></li>
+<li><a href="https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html">What's the difference between a web server and app server</a></li>
+<li><a href="https://www.site24x7.com/learn/dns-record-types.html">DNS record types</a></li>
+<li><a href="https://avinetworks.com/glossary/single-point-of-failure/">Single point of failure</a></li>
+<li><a href="https://softwareengineering.stackexchange.com/questions/35063/how-do-you-update-your-production-codebase-database-schema-without-causing-downt#answers-header">How to avoid downtime when deploying a new code</a></li>
+<li><a href="https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712">High availability cluster (active-active active/passive)</a></li>
+<li><a href="https://www.instantssl.com/http-vs-https">What's HTTPS</a></li>
+<li><a href="https://www.webopedia.com/definitions/firewall/">What' s a firewall</a></li>
 <br>
 
 # Tasks
@@ -27,13 +29,13 @@
 
 <br>
 
- A lot of websites are powered by simple web infrastructure, a lot of time it is composed of a single server with a LAMP stack.
+## A lot of websites are powered by simple web infrastructure, a lot of time it is composed of a single server with a LAMP stack.
 
-On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
+## On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
 
-Requirements:
+## Requirements:
 
-You must use:
+## You must use:
 1 server
 1 web server (Nginx)
 1 application server
@@ -53,15 +55,15 @@ SPOF
 Downtime when maintenance needed (like deploying new code web server needs to be restarted)
 Cannot scale if too much incoming traffic
 <br>
-.What is a Server?
-A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
-.What is the role of the domain name?
-Domain names serve to identify Internet resources, such as computers, networks, and services, with a text-based label that is easier to memorize than the numerical addresses used in the Internet protocols. A domain name may represent entire collections of such resources or individual instances.
-.What is the role of the web server?
-The primary role of a web server is to store, process, and deliver requested information or webpages to end users. It uses: Physical Storage: All website data is stored on a physical web server to ensure its safety.
-.what is the role of the application server?
-The function of the application server is to act as host (or container) for the user's business logic while facilitating access to and performance of the business application.
-.What is the role of the database?
-The use of a computer database is typically involved in efficient data management. A shared, integrated computer structure, a database stores the following: End-user data i.e. raw data relevant to the end user. Metadata—the data about data, through which end-user data is integrated and managed..
+## .What is a Server?
+## A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
+## .What is the role of the domain name?
+## Domain names serve to identify Internet resources, such as computers, networks, and services, with a text-based label that is easier to memorize than the numerical addresses used in the Internet protocols. A domain name may represent entire collections of such resources or individual instances.
+## .What is the role of the web server?
+## The primary role of a web server is to store, process, and deliver requested information or webpages to end users. It uses: Physical Storage: All website data is stored on a physical web server to ensure its safety.
+## .what is the role of the application server?
+## The function of the application server is to act as host (or container) for the user's business logic while facilitating access to and performance of the business application.
+## .What is the role of the database?
+## The use of a computer database is typically involved in efficient data management. A shared, integrated computer structure, a database stores the following: End-user data i.e. raw data relevant to the end user. Metadata—the data about data, through which end-user data is integrated and managed..
 
 
