@@ -1,24 +1,24 @@
-0x09. Web infrastructure design
+# 0x09. Web infrastructure design
 # Devops SysAdmin Web Infrastructure
 <br>
-Concepts
+# Concepts
 <br>
-<ul> 
-[DNS] (https://intranet.alxswe.com/concepts/12)
-[Monitoring] (https://intranet.alxswe.com/concepts/13)
-[Web Server] (https://intranet.alxswe.com/concepts/17)
-[Network basics] (https://intranet.alxswe.com/concepts/33)
-[Load balancer] (https://intranet.alxswe.com/concepts/46)
-[Server] (https://intranet.alxswe.com/concepts/67)
-[What Is a Database] (https://www.oracle.com/ke/database/what-is-database/)
-[What's the difference between a web server and app server] (https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html)
-[DNS record types] (https://www.site24x7.com/learn/dns-record-types.html)
-[Single point of failure] (https://avinetworks.com/glossary/single-point-of-failure/)
-[How to avoid downtime when deploying a new code] (https://softwareengineering.stackexchange.com/questions/35063/how-do-you-update-your-production-codebase-database-schema-without-causing-downt#answers-header)
-[High availability cluster (active-active active/passive)] (https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712)
-[What's HTTPS] (https://www.instantssl.com/http-vs-https)
-[what is a firewall] (https://www.webopedia.com/definitions/firewall/)
-</ul>
+<ul>
+<li> 
+[DNS](https://intranet.alxswe.com/concepts/12)</li>
+<li>[Monitoring](https://intranet.alxswe.com/concepts/13)</li>
+<li>[Web Server](https://intranet.alxswe.com/concepts/17)</li>
+<li>[Network basics](https://intranet.alxswe.com/concepts/33)</li>
+<li>[Load balancer](https://intranet.alxswe.com/concepts/46)</li>
+<li>[Server](https://intranet.alxswe.com/concepts/67)</li>
+<li>[What Is a Database](https://www.oracle.com/ke/database/what-is-database/)</li>
+<li>[What's the difference between a web server and app server](https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html)</li>
+<li>[DNS record types](https://www.site24x7.com/learn/dns-record-types.html)</li>
+<li>[Single point of failure](https://avinetworks.com/glossary/single-point-of-failure/)</li>
+<li>[How to avoid downtime when deploying a new code](https://softwareengineering.stackexchange.com/questions/35063/how-do-you-update-your-production-codebase-database-schema-without-causing-downt#answers-header)</li>
+<li>[High availability cluster (active-active active/passive)](https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712)</li>
+<li>[What's HTTPS](https://www.instantssl.com/http-vs-https)</li>
+<li>[what is a firewall](https://www.webopedia.com/definitions/firewall/)</li>
 <br>
 
 # Tasks
