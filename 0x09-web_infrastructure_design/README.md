@@ -1,7 +1,9 @@
 0x09. Web infrastructure design
 # Devops SysAdmin Web Infrastructure
 <br>
-Concepts 
+Concepts
+<br>
+<ul> 
 [DNS] (https://intranet.alxswe.com/concepts/12)
 [Monitoring] (https://intranet.alxswe.com/concepts/13)
 [Web Server] (https://intranet.alxswe.com/concepts/17)
@@ -17,10 +19,13 @@ Concepts
 [What's HTTPS] (https://www.instantssl.com/http-vs-https)
 [what is a firewall] (https://www.webopedia.com/definitions/firewall/)
 <br>
-## Tasks
+
+# Tasks
 # 0. Simple web stack
-## Description
+# Description
+
 <br>
+
  A lot of websites are powered by simple web infrastructure, a lot of time it is composed of a single server with a LAMP stack.
 
 On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
