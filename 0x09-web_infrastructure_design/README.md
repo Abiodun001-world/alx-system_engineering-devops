@@ -18,6 +18,7 @@ Concepts
 [High availability cluster (active-active active/passive)] (https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712)
 [What's HTTPS] (https://www.instantssl.com/http-vs-https)
 [what is a firewall] (https://www.webopedia.com/definitions/firewall/)
+</ul>
 <br>
 
 # Tasks
