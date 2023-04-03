@@ -2,9 +2,9 @@
 
 For this project, we expect you to look at these concepts:
 
-Load balancer
+. <a href="https://www.thegeekstuff.com/2016/01/load-balancer-intro/">Load balancer</a>
 
-Web stack debugging
+. <a href="https://intranet.alxswe.com/concepts/68">Web stack debugging</a>
 
 ## Background Context
 
@@ -14,7 +14,7 @@ gc-[STUDENT_ID]-web-02-XXXXXXXXXX
 
 gc-[STUDENT_ID]-lb-01-XXXXXXXXXX
 
-Let’s improve our web stack so that there is redundancy for our web servers. This will allow us to be able to accept more traffic by doubling the number of web servers, and to make our infrastructure more reliable. If one web server fails, we will still have a second one to handle requests.
+Let’s improve our web stack so that there is <a href="https://en.wikipedia.org/wiki/Redundancy_%28engineering%29"> redundancy</a> for our web servers. This will allow us to be able to accept more traffic by doubling the number of web servers, and to make our infrastructure more reliable. If one web server fails, we will still have a second one to handle requests.
 
 For this project, you will need to write Bash scripts to automate your work. All scripts must be designed to configure a brand new Ubuntu server to match the task requirements.
 
@@ -22,11 +22,11 @@ For this project, you will need to write Bash scripts to automate your work. All
 
 Read or watch:
 
-Introduction to load-balancing and HAproxy
+. <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts">Introduction to load-balancing and HAproxy</a>
 
-HTTP header
+. <a href="https://www.techopedia.com/definition/27178/http-header">HTTP header</a>
 
-Debian/Ubuntu HAProxy packages
+. <a href="https://haproxy.debian.net/">Debian/Ubuntu HAProxy packages</a>
 
 ## Requirements
 
