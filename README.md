@@ -1,1 +1,2 @@
 - alx-system_engineering-devops
+- This repository has the folders and files I created while learning as a software developer at ALX Africa.
